@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="Style.CSS">
+</head>
+<body>
+    <h1><center><b>Will Kirkland</b></center></h1>
+    <h3><center><a href="#">Github Link</a> </h3>
+        <img height="250"src="https://slack-imgs.com/?c=1&o1=ro&url=https%3A%2F%2Fd2h8qhew3fx4cx.cloudfront.net%2Fclient%2F4112%2F609cdfefa6dff508b47d730a5545913c%2F533c2a3f1800d1e2dd26dce90b9b9b95_large.jpeg" alt="">
+        <h3>Interview Questions</h3>
+        <ol><li><b>Where were you born?</b> Largo Maryland</li>
+        <li><b>If your life had a theme song, what would it be?</b>  J.Cole GOMD</li>
+        
+        <li><b>What's your dream car?</b> G Wagon</li>
+        
+        <li><b>If you had a superpower, what would it be?</b> Speak any language</li>
+        
+        <li><b>What's something that takes up way too much of your time?</b> Youtube</li>
+        
+        <li><b>What's one side hustle idea you'd love to start?</b> Power Washing</li>
+        
+        <li><b>Out of all the holidays, which one is your favorite?</b> New Years</li>
+        
+        <li><b>Have you ever been bullied?</b> Nah</li>
+        
+        <li><b>Whats been your most embarrasing moment?</b> Tripping on stage at graduation</li>
+        
+        <li><b>What foreign language would you like to learn?</b> chinese</li>
+
+        <h1><center><b>Alan Malpartida</b></center></h1>
+    <h3><center><a href="#">Github Link</a> </h3>
+        <img height="250" src="https://slack-imgs.com/?c=1&o1=ro&url=https%3A%2F%2Fi.imgur.com%2FZKljSEXh.jpg">
+<h3>Interview Questions</h3>
+        <ol><li><b>Where were you born?</b> White Plains, NY</li>
+        <li><b>If your life had a theme song, what would it be?</b> On Sight-Kanye West</li>
+            
+        <li><b>What's your dream car?</b> 1999 EK Type R</li>
+            
+        <li><b>If you had a superpower, what would it be?</b> Teleport like Minato</li>
+            
+        <li><b>What's something that takes up way too much of your time?</b> Watching Youtube</li>
+            
+        <li><b>What's one side hustle idea you'd love to start?</b> Open a Bubble Tea Business in Peru, It’s cheaper to start a business out there and I would like have a Chain of restaurants</li>
+            
+        <li><b>Out of all the holidays, which one is your favorite?</b> Halloween</li>
+            
+        <li><b>Have you ever been bullied?</b> Yes, from 6th-8th I was bullied, some kids used to always steal my Yugioh cards on the bus</li>
+            
+        <li><b>Whats been your most embarrasing moment?</b> In 7th Grade my friends left an old fish in my backpack and I walked around the school smelling like death</li>
+            
+        <li><b>What foreign language would you like to learn?</b> Portuguese</li>
+    
+</body>
+</html>
